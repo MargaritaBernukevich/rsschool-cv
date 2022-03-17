@@ -1,1 +1,1 @@
-https://MargaritaBernukevich.github.io/rsschhool-cv/cv
+https://github.com/MargaritaBernukevich/rsschool-cv/tree/gh-pages
